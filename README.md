@@ -5,7 +5,7 @@ A beginner-friendly, lightweight Python tool built to parse biological genomic f
 ## 📐 Visual Blueprint & Architecture
 Here is the aesthetic layout design created in Figma prior to developing the programmatic execution engine:
 
-<img src="figma_design.png" alt="Figma Design Blueprint" width="100%">
+![Figma Design Blueprint](figma_design.png.png)
 
 ## 📊 Core Features
 - **Aesthetic Visual Reporting**: Built with a custom baby pink color layout palette.
