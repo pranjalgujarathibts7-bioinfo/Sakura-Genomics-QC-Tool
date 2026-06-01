@@ -1,0 +1,24 @@
+=============================================
+🌸 ✨ SAKURA GENOMICS QC REPORT ✨ 🌸
+=============================================
+
+   🌸 [Passed] Analysis Successful!
+   🧁 Strand : ATGCTAGCATGCTAGC
+   📏 Length : 16 base pairs
+   💖 GC %   : 50.0%
+   • • • • • • • • • • • • • • • • • • 
+
+   🌧️ [Alert] High Error Base Count!
+   🧁 Strand : NNNNNNNNNNATGC
+   ⭐ Status : Flagged (71.4% N-bases)
+   • • • • • • • • • • • • • • • • • • 
+
+   🌸 [Passed] Analysis Successful!
+   🧁 Strand : GCGCGCGCATATAT
+   📏 Length : 14 base pairs
+   💖 GC %   : 57.1%
+   • • • • • • • • • • • • • • • • • • 
+
+=============================================
+✨ ALL DONE! YOUR GENOMES ARE RADIANT! ✨
+=============================================
